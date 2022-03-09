@@ -1,4 +1,4 @@
-# JHanks-CNIT-132
+
 <ul>
   <li>Home
   <li> <a href="https://jhanks89.github.io/CNIT132-Assignments/">Assignments</a>
