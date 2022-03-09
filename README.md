@@ -1,7 +1,7 @@
 # JHanks-CNIT-132
 <ul>
   <li>Home
-  <li> <a href="">Assignments</a>
+  <li> <a href="https://jhanks89.github.io/CNIT132-Assignments/">Assignments</a>
   <li> <a href="">Meetup</a>
   <li> <a href="">Contact</a>
           <br>
