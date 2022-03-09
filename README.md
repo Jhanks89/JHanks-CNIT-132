@@ -2,7 +2,7 @@
 <ul>
   <li>Home
   <li> <a href="https://jhanks89.github.io/CNIT132-Assignments/">Assignments</a>
-  <li> <a href="">Meetup</a>
+  <li> <a href="https://jhanks89.github.io/MeetUp/">Meetup</a>
   <li> <a href="">Contact</a>
           <br>
           <!-- Jordan Hanks 03/08/2022 -->
