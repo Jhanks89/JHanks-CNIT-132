@@ -4,7 +4,6 @@
   <li> <a href="">Assignments</a>
   <li> <a href="">Meetup</a>
   <li> <a href="">Contact</a>
-          </ul>
           <br>
           <!-- Jordan Hanks 03/08/2022 -->
 <p> My first paragraph will go here </p>
